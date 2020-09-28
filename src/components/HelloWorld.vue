@@ -22,7 +22,7 @@
         img-src="https://picsum.photos/1024/480/?image=58"
       ></b-carousel-slide>
       <b-carousel-slide
-        caption="COVID-19 Measures"
+        caption="COVID-19 Procedures"
         text="Keeping you safe and our planes clean. Find out more..."
         img-src="https://picsum.photos/1024/480/?image=54"
       ></b-carousel-slide>
